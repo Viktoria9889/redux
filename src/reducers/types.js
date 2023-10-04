@@ -1,0 +1,3 @@
+export const PAGE_SET_TITLE = 'PAGE_SET_TITLE'
+
+export const INPUT_SET_DATA = 'INPUT_SET_DATA'
